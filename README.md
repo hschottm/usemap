@@ -1,0 +1,4 @@
+usemap
+======
+
+Contao extension usemap
